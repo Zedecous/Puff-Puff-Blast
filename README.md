@@ -1,2 +1,2 @@
 # Puff-Puff-Blast
-RPG Maker game in process
+A short RPG Maker game made for an RPG Maker Game Jam in the Fall of 2018
